@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjith M</h1>
-<h3 align="center">🚀 Full-stack developer exploring AI & ML 💻 Python & Django Developer | Tech Enthusiast 🔥 Passionate about Web Development & AI 📊 Building projects with Python, Django & Data Science 🌐 Web Developer | Learning ML & Generative AI</h3>
+<h3 align="center">🚀 Full-stack developer exploring AI & ML 
+  💻 Python & Django Developer | Tech Enthusiast 
+  🔥 Passionate about Web Development & AI 
+  📊 Building projects with Python, Django & Data Science 
+  🌐 Web Developer | Learning ML & Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjith3&label=Profile%20views&color=0e75b6&style=flat" alt="sanjith3" /> </p>
 
